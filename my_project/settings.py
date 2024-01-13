@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-2*uk)fo$d@ty4d&dd+sr)2l(fpt$urvpac1$-1j^-afii#2xre'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True #TODO: Remember to turn to false when submitting the project!
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-blignaut24-lavatory-loca-r6azezi6u8.us2.codeanyapp.com']
 
