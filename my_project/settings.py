@@ -25,9 +25,9 @@ SECRET_KEY = 'django-insecure-2*uk)fo$d@ty4d&dd+sr)2l(fpt$urvpac1$-1j^-afii#2xre
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['lavatory-locator-bb374f0bb980.herokuapp.com',
+ALLOWED_HOSTS = ['8000-blignaut24-lavatory-loca-r6azezi6u8.us2.codeanyapp.com',
                 '.herokuapp.com']
-                
+                'lavatory-locator-bb374f0bb980.herokuapp.com'
 
 
 # Application definition
