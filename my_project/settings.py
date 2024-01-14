@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-2*uk)fo$d@ty4d&dd+sr)2l(fpt$urvpac1$-1j^-afii#2xre
 DEBUG = False
 
 ALLOWED_HOSTS = ['8000-blignaut24-lavatory-loca-r6azezi6u8.us2.codeanyapp.com',
-                '.herokuapp.com']
-                'lavatory-locator-bb374f0bb980.herokuapp.com'
+                 'lavatory-locator-d748ddf160ba.herokuapp.com']
+                
 
 
 # Application definition
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'hello_world',
+    
 ]
 
 MIDDLEWARE = [
